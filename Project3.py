@@ -16,13 +16,13 @@ import pytest as pytest
 # %%
 #Twitter API credentials
 
-consumer_key = "MQZq4Yn6t7IxLzyvGuStyK5b2"
+consumer_key = ""
 
-consumer_secret = "0sDTOY2z0h1Ju3iHW4SGW9dKK0NRjTPmg1za8JzvCTxuOX4Gvr"
+consumer_secret = ""
 
-access_key = "1440736491144024064-DKANAI828zkuilMIfa4265XCcgkhUI"
+access_key = ""
 
-access_secret = "Dgn9KTHROjPNA6PdBxVYvnGGc3MSgNhTprGqNq7i4CdlI"
+access_secret = ""
 
 
 
